@@ -18,7 +18,7 @@ data folder: -training files are used to train the AI, -dev files are the input 
 main.py - Main program, runs the other 3 files (provided by SHPE)
 utilities.py - Utility functions to test the AI functionality and accuracy (provided by SHPE)
 base_viterbi.py - HMM Viterbi algorithm to predict the part-of-speech of the next word (created by me)
-optimized_viterbi.py - 
+optimized_viterbi.py - more advanced version of the Viterbi algorithm that handles special word cases (created by me)
 
 
 Instructions:
