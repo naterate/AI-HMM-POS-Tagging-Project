@@ -8,7 +8,7 @@ The program is trained using a separate file as its training data (ex: browncorp
 When the program runs, it outputs the AI's prediction accuracy on the test data.
 It also outputs:
 the accuracy of words with multiple tags
-the accuracy of words that only appear once (unseen words)
+the accuracy of words that only appear in the test data (unseen words in the training data)
 the words that were predicted incorrectly the most
 the words that were predicted correctly the most
 
